@@ -1,0 +1,9 @@
+diff a/myjava/src/main/java/com/myjava/demo/entity/Product.java b/myjava/src/main/java/com/myjava/demo/entity/Product.java	(rejected hunks)
+@@ -17,6 +17,7 @@
+ @AllArgsConstructor
+ @NoArgsConstructor
+ public class Product {
++<<<<<<< HEAD
+ =======
+     private  Long ifdfg;
+ >>>>>>> dev
