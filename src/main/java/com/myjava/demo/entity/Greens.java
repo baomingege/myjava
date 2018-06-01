@@ -14,6 +14,7 @@ public class Greens extends Product {
         return "Greens商品出库";
     }
     public String proIn(){
+        String dd;
         setGreSum((Greens) this);
         setGreMar((Greens) this);
         return "Greens商品入库";
